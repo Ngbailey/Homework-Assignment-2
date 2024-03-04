@@ -1,1 +1,2 @@
 a) I removed the "New_Price" column as it had many missing entries and it's prices varied in various currencies and served to only make the data more confusing without contributing anything useful to the dataset.
+e) summarized the mean price and the total kilometers driven as well as filted out all cars that were not electric.
