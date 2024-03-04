@@ -1,0 +1,1 @@
+a) I removed the "New_Price" column as it had many missing entries and it's prices varied in various currencies and served to only make the data more confusing without contributing anything useful to the dataset.
